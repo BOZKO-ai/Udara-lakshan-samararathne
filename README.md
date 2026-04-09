@@ -1,7 +1,7 @@
 # Udara-lakshan-samararathne
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there!I+am+Udara+Lakshan+Samararathne;Full-Stack+MERN+Developer;AI+Integration+Specialist;HNDIT+Scholar" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there!I+am+Udara+Lakshan+Samararathne;Full-Stack+MERN+Developer;;HNDIT+Scholar" alt="Typing SVG" />
 </h1>
 
 <p align="center">
